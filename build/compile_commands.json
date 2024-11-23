@@ -1,8 +1,20 @@
 [
 {
   "directory": "C:/Programming/labw2/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab2.dir\\main.cpp.obj -c C:\\Programming\\labw2\\main.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++14 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\helloworld_cli.dir\\main.cpp.obj -c C:\\Programming\\labw2\\main.cpp",
   "file": "C:\\Programming\\labw2\\main.cpp",
-  "output": "CMakeFiles\\lab2.dir\\main.cpp.obj"
+  "output": "CMakeFiles\\helloworld_cli.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Programming/labw2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Programming/labw2/build -g -std=gnu++14 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\helloworld.dir\\lib.cpp.obj -c C:\\Programming\\labw2\\lib.cpp",
+  "file": "C:\\Programming\\labw2\\lib.cpp",
+  "output": "CMakeFiles\\helloworld.dir\\lib.cpp.obj"
+},
+{
+  "directory": "C:/Programming/labw2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_TEST_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -g -std=gnu++14 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\test_version.dir\\test_version.cpp.obj -c C:\\Programming\\labw2\\test_version.cpp",
+  "file": "C:\\Programming\\labw2\\test_version.cpp",
+  "output": "CMakeFiles\\test_version.dir\\test_version.cpp.obj"
 }
 ]

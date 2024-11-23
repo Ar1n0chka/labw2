@@ -1,3 +1,12 @@
-C:/Programming/labw2/build/CMakeFiles/lab2.dir
+C:/Programming/labw2/build/CMakeFiles/helloworld_cli.dir
+C:/Programming/labw2/build/CMakeFiles/helloworld.dir
+C:/Programming/labw2/build/CMakeFiles/test_version.dir
+C:/Programming/labw2/build/CMakeFiles/package.dir
+C:/Programming/labw2/build/CMakeFiles/package_source.dir
+C:/Programming/labw2/build/CMakeFiles/test.dir
 C:/Programming/labw2/build/CMakeFiles/edit_cache.dir
 C:/Programming/labw2/build/CMakeFiles/rebuild_cache.dir
+C:/Programming/labw2/build/CMakeFiles/list_install_components.dir
+C:/Programming/labw2/build/CMakeFiles/install.dir
+C:/Programming/labw2/build/CMakeFiles/install/local.dir
+C:/Programming/labw2/build/CMakeFiles/install/strip.dir

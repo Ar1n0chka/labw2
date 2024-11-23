@@ -12,11 +12,11 @@ int main()
 {
     std::vector<std::vector<int>> ip_address;
     std::string s;
-    std::ifstream file("../02/ip_filter.tsv");
-    while(std::getline(file, s))
+    std::ifstream file("../02/ip_filter.tsv");//read
+    while(std::getline(file, s))//open
     {
         auto splited = split(s.substr(0, s.find('\t')), '.');
-        std::vector<int> octets = {stoi(splited[0]), stoi(splited[1]), stoi(splited[2]), stoi(splited[3])};
+        std::vector<int> octets = {stoi(splited[0]), stoi(splited[1]), stoi(splited[2]), stoi(splited[3])}; //str to int
         ip_address.push_back(octets);
     }
 
